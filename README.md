@@ -1,7 +1,3 @@
 
 Este repositorio ha sido creado con la finalidad de apoyar el desarrollo académico dentro de la asignatura Fundamentos de Programación en la Universidad Estatal Amazónica (UEA). Su propósito principal es servir como un espacio de organización y recopilación de los distintos trabajos, proyectos y ejercicios prácticos realizados a lo largo del curso. La programación constituye una de las habilidades más importantes para los profesionales de las ciencias tecnológicas, ya que proporciona las herramientas necesarias para resolver problemas de manera estructurada, lógica y eficiente.
 
-En este repositorio se encontrarán archivos relacionados con temas fundamentales de la programación, tales como estructuras secuenciales, condicionales y repetitivas, así como ejercicios de modularización y uso de funciones. Además, se incluirán ejemplos prácticos de algoritmos que permiten al estudiante comprender no solo la sintaxis de un lenguaje de programación, sino también la lógica que se esconde detrás de cada instrucción.
-
-
-En definitiva, este repositorio no solo es un simple contenedor de archivos, sino una herramienta de apoyo que contribuye al aprendizaje significativo de la programación. A través de él, se fomenta la constancia, la dedicación y la aplicación práctica de los conocimientos, con el objetivo de formar profesionales más capacitados para enfrentar los retos tecnológicos actuales y futuros.
